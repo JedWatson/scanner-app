@@ -1,7 +1,7 @@
 .DS_Store
+build/
 
 # Xcode	
-build/
 *.mode1v3
 *.mode2v3
 *.perspectivev3
@@ -14,3 +14,16 @@ build/
 *.perspectivev3
 xcuserdata
 DerivedData
+platforms/ios/build/
+
+# Android
+build.xml
+local.properties
+gradlew
+gradlew.bat
+gradle
+ant-built
+ant-gen
+gen
+out
+platforms/android/build
